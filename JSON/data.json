@@ -1,0 +1,25 @@
+[
+  {
+    "title": "New Moon",
+    "description": "The side facing Earth receives no direct sunlight, making the satellite nearly invisible from our planet.",
+    "details": "Approximate duration: 1 day"
+  },
+
+  {
+    "title": "First Quarter",
+    "description": "Half of the lunar surface is illuminated, creating a D shape in the northern hemisphere.",
+    "details": "Appears about 7 days after the New Moon"
+  },
+
+  {
+    "title": "Full Moon",
+    "description": "The entire visible disk is illuminated by sunlight, creating a bright circle in the night sky.",
+    "details": "Occurs about 14-15 days into the cycle"
+  },
+
+  {
+    "title": "Last Quarter",
+    "description": "The opposite half becomes visible, forming a C shape in the northern hemisphere.",
+    "details": "Appears about 21-22 days after the beginning of the cycle"
+  }
+]
